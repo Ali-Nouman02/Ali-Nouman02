@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Passionate about exploring Data Analytics, Data Science, and Machine Learning, with a keen interest in their applications within Finance and Economics.</h3>
