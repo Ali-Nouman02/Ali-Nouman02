@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and improving my skills in Python**
 
-- 📫 How to reach me **https://github.com/Ali-Nouman02/100-DAYS-OF-CODE**
+- 📫 How to reach me **[https://github.com/Ali-Nouman02/100-DAYS-OF-CODE](https://www.linkedin.com/in/ali-nouman-6ba412247/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
