@@ -2,11 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Passionate about exploring Data Analytics, Data Science, and Machine Learning, with a keen interest in their applications within Finance and Economics.</h3>
 
-- 🔭 I’m currently working on [100 DAY OF CODE](https://github.com/Ali-Nouman02/100-DAYS-OF-CODE)
 
-- 🌱 I’m currently learning **Machine Learning and improving my skills in Python**
 
-- 📫 How to reach me **[https://github.com/Ali-Nouman02/100-DAYS-OF-CODE](https://www.linkedin.com/in/ali-nouman-6ba412247/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
